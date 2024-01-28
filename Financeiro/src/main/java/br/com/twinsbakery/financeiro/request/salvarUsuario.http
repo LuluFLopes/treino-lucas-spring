@@ -1,4 +1,4 @@
-POST http://localhost:8081/home/salvarUsuario
+POST http://localhost:8081/usuarios/salvarUsuario
 Content-Type: application/json
 
 {

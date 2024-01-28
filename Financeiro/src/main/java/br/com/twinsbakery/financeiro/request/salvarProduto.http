@@ -1,0 +1,9 @@
+POST http://localhost:8081/produtos/salvar
+Content-Type: application/json
+
+{
+  "codigo": 12345,
+  "nome": "Detergente",
+  "descricao": "500 ml"
+
+}

@@ -1,2 +1,2 @@
-GET http://localhost:8081/home/listarUsuarios
+GET http://localhost:8081/usuarios/listarUsuarios
 Content-Type: application/json
