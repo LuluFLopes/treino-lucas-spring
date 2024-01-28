@@ -1,0 +1,13 @@
+POST http://localhost:8081/home/salvarUsuario
+Content-Type: application/json
+
+{
+  "nome": "Lucas",
+  "cpf": "111.111.111-11",
+  "email": "lucas.teste@teste.com",
+  "dataNascimento": [
+    2025,
+    1,
+    1
+  ]
+}
